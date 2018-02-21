@@ -68,6 +68,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "vue": "^2.5.2",
+    "vue-fast-select": "^1.0.1",
     "vue-router": "^3.0.1",
     "vue-txt-number": "^1.0.7"
   }
