@@ -1,6 +1,6 @@
 <template>
   <div class="vue-fast-select">
-    <git-icon url="https://github.com/kinanson/vue-txt-number"></git-icon>
+    <git-icon url="https://github.com/kinanson/vue-fast-select"></git-icon>
     <div class="form-check">
       <input class="form-check-input" type="checkbox" id="isNative" v-model="isNative">
       <label class="form-check-label" for="isNative">
